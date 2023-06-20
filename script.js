@@ -14,5 +14,13 @@ function toggleMode() {
         img.setAttribute('src', './assets/avatar-light.png'),
         img.setAttribute('alt', 'Foto de Perfil de Jonathan M. em cima da Moto.')
     }
-    
+
+}
+function mostrarMensagem1() {
+    alert('Por enquanto nada!')
+}
+
+
+function mostrarMensagem2() {
+    alert('Nada ainda!')
 }
